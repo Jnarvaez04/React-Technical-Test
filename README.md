@@ -1,4 +1,4 @@
-# Prueba técnica para Juniors y Trainees de React en Live Coding.
+# Technical test for React Juniors and Trainees in Live Coding.
 
 APIs:
 
